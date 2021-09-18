@@ -16,6 +16,10 @@ colab과 Python을 이용하여 월드컵 데이터 분석하기
 
 "WorldCups.csv"는 역대 모든 월드컵에 대한 모든 정보를 표시하며, <br>"WorldCupMatches.csv"는 월드컵에서 경합한 경기의 모든 결과를 표시합니다.
 
+## 📄 예시
+
+<img width="718" alt="worldcup_result" src="https://user-images.githubusercontent.com/81430564/133889065-d397e216-8554-408b-b06b-8d43efbd3055.PNG">
+
 
 
 ## 🌲 디렉토리 구조
